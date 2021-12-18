@@ -14,3 +14,5 @@ Android Jetpack (LiveData, ViewModel & DataBinding)
 https://drive.google.com/file/d/1IvDFwOLOmBkFEL-O5W6xsg_sVclXFYKo/view?usp=sharing
 
 # Youtube
+
+https://www.youtube.com/watch?v=u6F9zzxp5to
