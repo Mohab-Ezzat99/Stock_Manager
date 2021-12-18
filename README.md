@@ -1,4 +1,4 @@
-# Stock_Manger
+# Stock_Manager
 Sales project for products management &amp; inventory step by step easily.
 
 # Tools
